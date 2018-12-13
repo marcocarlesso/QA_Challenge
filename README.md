@@ -24,3 +24,4 @@ Once the system is configured, browse to the QA_Challenge folder with a terminal
 robot TestScenario1.robot
 
 The test execution will take place and in the same folder will be generate a Report, an output and a log file.
+ 
